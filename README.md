@@ -15,9 +15,11 @@
   </picture>
 </div>
 
-<p><b>Character entities</b> allow you to include certain characters within an <b>HTML</b> document that are not available in the <b>charset</b> encoding.</p>
+## :bookmark_tabs: About
 
-<p>Reserved characters in <b>HTML</b> must be replaced with <b>character entities</b> to prevent the browser from interpreting them as HTML code. Here’s a complete cheatsheet I made that you can look up.</p>
+**Character entities** allow you to display special characters and symbols within **HTML** documents that are not available in the **charset** encoding. These special characters must be replaced with **character entities** to prevent the browser from interpreting them as HTML code or rendering them incorrectly.
+
+This comprehensive cheatsheet provides a quick reference to help you navigate this sea of characters, glyphs, and symbols. We'll be covering their usage, types, and best practices for creating well-formatted and accessible content.
 
 ## :page_facing_up: Licenses and copyright
 
