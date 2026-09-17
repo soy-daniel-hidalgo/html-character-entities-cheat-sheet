@@ -2,6 +2,7 @@
   <a href="http://www.w3.org/html/logo/">
     <img src="https://www.w3.org/html/logo/badge/html5-badge-h-semantics.png" width="133" height="64" align="left" alt="HTML5 Powered with Semantics" title="HTML5 Powered with Semantics">
   </a>
+  <br>
 
   <h1 align="right">HTML Character Entities Cheatsheet</h1>
 </div>
