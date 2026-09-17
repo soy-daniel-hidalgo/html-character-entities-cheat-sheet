@@ -21,6 +21,6 @@
 
 ## :page_facing_up: Licenses and copyright
 
-This project is licensed under the MIT License, which is included in the root directory of this repository. Feel free to use, adapt, or copy any part of this project.
+This project is licensed under the [MIT License](LICENSE), which is included in the root directory of this repository. Feel free to use, adapt, or copy any part of this project.
 
 The [HTML5 logo](http://www.w3.org/html/logo/) is licensed under Creative Commons Attribution 3.0 — all are free to use and reimagine as they see fit.
