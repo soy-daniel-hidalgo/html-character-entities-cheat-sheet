@@ -26,7 +26,7 @@ This comprehensive cheat sheet provides a quick reference to help you navigate t
 - Correct grammatical errors and improve readability.
 - Add new characters, glyphs, and symbols.
 - Translate this project into your language.
-- Improve explanations and address other ideas.
+- Improve explanations and address other issues.
 
 ---
 
@@ -36,6 +36,7 @@ This comprehensive cheat sheet provides a quick reference to help you navigate t
 - [📎 Types of character entities](#-types-of-character-entities)
 - [📓 Best practices and recommendations](#-best-practices-and-recommendations)
 - [📜 List of HTML character entities](#-list-of-html-character-entities)
+- [🌎 Localization](#-localization)
 - [🤝 Contributing](#-contributing)
 - [📄 Licenses and copyright](#-licenses-and-copyright)
 
@@ -43,7 +44,7 @@ This comprehensive cheat sheet provides a quick reference to help you navigate t
 
 ## 📎 Types of Character Entities
 
-HTML character entities are codes used to display reserved characters or special symbols—such as accented letters, diacritical marks, emojis, and characters not found on a standard keyboard—without interfering with HTML parsing.
+HTML character entities are codes used to display reserved characters or special symbols—such as accented letters, diacritical marks, emojis, and characters not found on a standard keyboard without interfering with HTML parsing.
 
 There are three ways to represent them:
 
@@ -242,6 +243,18 @@ There are three ways to represent them:
 | `ϖ` | Greek pi symbol | `&piv;` | `&#982;` | `&#x03D6;` |
 | `–` | En dash | `&ndash;` | `&#8211;` | `&#x2013;` |
 | `—` | Em dash | `&mdash;` | `&#8212;` | `&#x2014;` |
+
+---
+
+## 🌎 Localization
+
+This cheat sheet is available in the languages listed below:
+
+| Language | Link |
+| --- | --- |
+| 🇬🇧 English | **HTML Character Entities Cheat Sheet** — You are here **◝(ᵔᵕᵔ)◜** |
+| 🇪🇸 Spanish | [Chuleta sobre entidades de caracteres en HTML](./lang/es.md) |
+
 ---
 
 ## 🤝 Contributing
@@ -251,7 +264,7 @@ There are three ways to represent them:
 - 🐛 Report bugs, typos, or grammar mistakes.
 - ®️ Add new characters, glyphs, and symbols to the list.
 - 🌐 Translate this project into other languages.
-- 💡 Improve explanations and address other ideas.
+- 💡 Improve explanations and address other issues.
 - 📝 Enhance formatting and styling.
 
 **(ദ്ദി ˙ᗜ˙ )** Thank you for taking the time to read and support this project.
