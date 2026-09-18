@@ -267,6 +267,8 @@ Existen tres formas de representarlas:
 - 💡 Mejorar explicaciones y abordar otros tópicos.
 - 📝 Mejorar el formato y estilo del código.
 
+Echale un vistazo a las [**pautas de contribución**](../CONTRIBUTING.md) para empezar, y luego anímate en [**abrir un Issue**](https://github.com/soy-daniel-hidalgo/html-character-entities-cheatsheet/issues) o realizar un [**Pull Request**](https://github.com/soy-daniel-hidalgo/html-character-entities-cheatsheet/pulls)!
+
 **(ദ്ദി ˙ᗜ˙ )** Muchas gracias por tomarte el tiempo de leer y apoyar este proyecto.
 
 ---
