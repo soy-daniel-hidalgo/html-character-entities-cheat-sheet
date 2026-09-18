@@ -4,7 +4,7 @@
   </a>
   <br>
 
-  <h1 align="right">HTML Character Entities Cheat sheet</h1>
+  <h1 align="right">HTML Character Entities Cheat Sheet</h1>
 </div>
 
 <div align="center">
@@ -21,11 +21,11 @@
 
 This comprehensive cheat sheet provides a quick reference to help you navigate this sea of characters, glyphs, and symbols. We'll be covering their usage, types, and best practices for creating well-formatted and accessible content.
 
-:heart_hands: **Contributions are welcome!** Feel free to:
+🫶 **Contributions are welcome!** Feel free to:
 
 - Correct grammatical errors and improve readability.
 - Add new characters, glyphs, and symbols.
-- Translate this project to your language.
+- Translate this project into your language.
 - Improve explanations and address other ideas.
 
 ---
@@ -57,13 +57,13 @@ This comprehensive cheat sheet provides a quick reference to help you navigate t
 
 **We welcome contributions!** You can:
 
-- :bug: Report bugs, typos or grammar mistakes.
-- :registered: Add new characters, glyphs, and symbols to the list.
-- :globe_with_meridians: Translate this project to other languages.
-- :bulb: Improve explanations and address other ideas.
-- :pencil: Enhance formatting and styling.
+- 🐛 Report bugs, typos, or grammar mistakes.
+- ®️ Add new characters, glyphs, and symbols to the list.
+- 🌐 Translate this project into other languages.
+- 💡 Improve explanations and address other ideas.
+- 📝 Enhance formatting and styling.
 
-**(ദ്ദി ˙ᗜ˙ )** Thank you for taking the time to read and supporting this project.
+**(ദ്ദി ˙ᗜ˙ )** Thank you for taking the time to read and support this project.
 
 ---
 
