@@ -267,6 +267,8 @@ This cheat sheet is available in the languages listed below:
 - 💡 Improve explanations and address other issues.
 - 📝 Enhance formatting and styling.
 
+Check out the [**contributing guidelines**](CONTRIBUTING.md) to get started, then feel free to [**open an Issue**](https://github.com/soy-daniel-hidalgo/html-character-entities-cheatsheet/issues) or submit a [**Pull Request**](https://github.com/soy-daniel-hidalgo/html-character-entities-cheatsheet/pulls)!
+
 **(ദ്ദി ˙ᗜ˙ )** Thank you for taking the time to read and support this project.
 
 ---
