@@ -30,7 +30,7 @@ This comprehensive cheat sheet provides a quick reference to help you navigate t
 
 ---
 
-## 📋 Table of contents
+## 📋 Table of Contents
 
 - [📑 About](#-about)
 - [📎 Types of character entities](#-types-of-character-entities)
@@ -41,15 +41,15 @@ This comprehensive cheat sheet provides a quick reference to help you navigate t
 
 ---
 
-## 📎 Types of character entities
+## 📎 Types of Character Entities
 
 ---
 
-## 📓 Best practices and recommendations
+## 📓 Best Practices and Recommendations
 
 ---
 
-## 📜 List of HTML character entities
+## 📜 List of HTML Character Entities
 
 ---
 
@@ -67,7 +67,7 @@ This comprehensive cheat sheet provides a quick reference to help you navigate t
 
 ---
 
-## 📄 Licenses and copyright
+## 📄 Licenses and Copyright
 
 This project is licensed under the [MIT License](LICENSE), which is included in the root directory of this repository. Feel free to use, adapt, or copy any part of this project.
 
