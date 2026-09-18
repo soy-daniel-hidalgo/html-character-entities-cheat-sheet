@@ -43,6 +43,17 @@ This comprehensive cheat sheet provides a quick reference to help you navigate t
 
 ## 📎 Types of Character Entities
 
+HTML character entities are codes used to display reserved characters or special symbols—such as accented letters, emojis, and characters not found on a standard keyboard—without interfering with HTML parsing.
+
+There are three ways to represent them:
+
+1. **Named Entities:** Represented by a standard and unique human-readable name, such as `&copy;` for the copyright symbol (&copy;) and `&gt;` for the greater-than sign (&gt;).
+2. **Decimal Codes:** Represented by the character's Unicode decimal value preceded by `&#`, such as `&#169;` for the copyright symbol (&#169;) and `&#120506;` for the mathematical character sigma (&#120506;).
+3. **Hexadecimal Codes:** Represented by the character's Unicode hexadecimal value preceded by `&#x`, such as `&#x00A9;` for the copyright symbol (&#x00A9;) and `&#x03A9;` for the Greek letter omega (&#x03A9;).
+
+> [!TIP]
+> Both decimal and hexadecimal formats are collectively known as **Numeric Entities**.
+
 ---
 
 ## 📓 Best Practices and Recommendations
