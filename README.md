@@ -15,7 +15,7 @@
   </picture>
 </div>
 
-## :bookmark_tabs: About
+## 📑 About
 
 **Character entities** allow you to display special characters and symbols within **HTML** documents that are not available in the **charset** encoding. These special characters must be replaced with **character entities** to prevent the browser from interpreting them as HTML code or rendering them incorrectly.
 
@@ -30,7 +30,30 @@ This comprehensive cheat sheet provides a quick reference to help you navigate t
 
 ---
 
-## :handshake: Contributing
+## 📋 Table of contents
+
+- [📑 About](#-about)
+- [📎 Types of character entities](#-types-of-character-entities)
+- [📓 Best practices and recommendations](#-best-practices-and-recommendations)
+- [📜 List of HTML character entities](#-list-of-html-character-entities)
+- [🤝 Contributing](#-contributing)
+- [📄 Licenses and copyright](#-licenses-and-copyright)
+
+---
+
+## 📎 Types of character entities
+
+---
+
+## 📓 Best practices and recommendations
+
+---
+
+## 📜 List of HTML character entities
+
+---
+
+## 🤝 Contributing
 
 **We welcome contributions!** You can:
 
@@ -44,7 +67,7 @@ This comprehensive cheat sheet provides a quick reference to help you navigate t
 
 ---
 
-## :page_facing_up: Licenses and copyright
+## 📄 Licenses and copyright
 
 This project is licensed under the [MIT License](LICENSE), which is included in the root directory of this repository. Feel free to use, adapt, or copy any part of this project.
 
