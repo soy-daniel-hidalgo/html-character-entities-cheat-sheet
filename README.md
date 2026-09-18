@@ -43,7 +43,7 @@ This comprehensive cheat sheet provides a quick reference to help you navigate t
 
 ## 📎 Types of Character Entities
 
-HTML character entities are codes used to display reserved characters or special symbols—such as accented letters, emojis, and characters not found on a standard keyboard—without interfering with HTML parsing.
+HTML character entities are codes used to display reserved characters or special symbols—such as accented letters, diacritical marks, emojis, and characters not found on a standard keyboard—without interfering with HTML parsing.
 
 There are three ways to represent them:
 
@@ -57,6 +57,21 @@ There are three ways to represent them:
 ---
 
 ## 📓 Best Practices and Recommendations
+
+- **Prefer Named Entities When Possible:** Use named entities for commonly used characters to enhance code readability. Named entities are easier to remember than numeric entities, making them simpler to read and maintain.
+
+> [!NOTE]
+> Entity names are case-sensitive. Always write entity names in lowercase.
+
+- **Use Numeric Entities for Less Common Characters:** Many characters like `U+2691` (⚑) do not have a named equivalent. In these cases, use decimal or hexadecimal codes instead.
+
+- **Prioritize Accessibility:** Ensure character entities remain accessible to screen readers and other assistive technologies by providing alternative text or context when necessary.
+
+> [!TIP]
+> Always specify UTF-8 character encoding (`<meta charset="UTF-8">`) at the beginning of every HTML document. UTF-8 natively supports almost all characters, ensuring browsers display content correctly and eliminating the need for character entities in most scenarios.
+
+> [!WARNING]
+> Web browsers can only render a character if the user's device has a font installed that supports it. If a character is missing from the available fonts, it will usually display as a box or placeholder symbol.
 
 ---
 
