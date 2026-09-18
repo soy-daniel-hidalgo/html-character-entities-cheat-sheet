@@ -248,7 +248,7 @@ Existen tres formas de representarlas:
 
 ## 🌎 Traducciones
 
-Éste proyecto está disponible en los siguientes idiomas:
+Este proyecto está disponible en los siguientes idiomas:
 
 | Idioma | Enlace |
 | --- | --- |
@@ -275,12 +275,12 @@ Echale un vistazo a las [**pautas de contribución**](../CONTRIBUTING.md) para e
 
 ## 📄 Licencias y derechos de autor
 
-Este proyecto está bajo la [Licencia MIT](../LICENSE), la cual se incluye en el directorio raíz de este repositorio. Siéntete libre de usar, adaptar o copiar cualquier parte de este proyecto.
+Este repositorio está bajo la [Licencia MIT](../LICENSE), la cual se incluye en el directorio raíz de este repositorio. Siéntete libre de usar, adaptar o copiar cualquier parte de este proyecto.
 
 El [logotipo de HTML5](http://www.w3.org/html/logo/) está bajo la licencia Creative Commons Atribución 3.0 — todos son libres de usarlo y reinterpretarlo como crean conveniente.
 
 ---
 
 <p align="center">
-    <b>⭐ ¡Dale una estrellita a este repositorio si te resultó útil! - Te lo agradezco mucho ദ്ദി( • ᴗ - ) ✧ ⭐</b>
+    <b>⭐ ¡Dale una estrellita al repositorio si te resultó útil! - Te lo agradezco mucho ദ്ദി( • ᴗ - ) ✧ ⭐</b>
 </p>
