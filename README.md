@@ -9,9 +9,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-mode.png" alt="Repository banner dark color scheme" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light-mode.png" alt="Repository banner light color scheme" />
-    <img src="assets/banner-light-mode.png" alt="Repository banner default theme" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/en/banner-dark-mode-en.png" alt="Repository banner dark color scheme" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/en/banner-light-mode-en.png" alt="Repository banner light color scheme" />
+    <img src="assets/en/banner-light-mode-en.png" alt="Repository banner default theme" />
   </picture>
 </div>
 
