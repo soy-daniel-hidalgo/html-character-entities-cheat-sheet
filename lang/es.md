@@ -4,7 +4,7 @@
   </a>
   <br>
 
-  <h1 align="right">Chuleta sobre entidades de caracteres en HTML</h1>
+  <h1 align="right">Cheat sheet sobre entidades de caracteres en HTML</h1>
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 Las **entidades de caracteres** te permiten mostrar caracteres especiales y símbolos dentro de documentos **HTML** que no están disponibles en la codificación ordinaria de caracteres (**charset**). Estos caracteres especiales se deben reemplazar por **entidades de caracteres** para evitar que el navegador los interprete como código HTML o los renderice de forma incorrecta.
 
-Esta sencilla chuleta ofrece una referencia rápida para ayudarte a navegar por este mar de caracteres, glifos y símbolos. Cubriremos su uso, tipos y buenas prácticas para crear contenido accesible y semánticamente correcto.
+Este sencillo *cheat sheet* ofrece una referencia rápida para ayudarte a navegar por este mar de caracteres, glifos y símbolos. Cubriremos su uso, tipos y buenas prácticas para crear contenido accesible y semánticamente correcto.
 
 🫶 **¡Las contribuciones son bienvenidas!** Siéntete libre de:
 
@@ -253,7 +253,7 @@ Este proyecto está disponible en los siguientes idiomas:
 | Idioma | Enlace |
 | --- | --- |
 | 🇬🇧 Inglés | [HTML Character Entities Cheat Sheet](../README.md) |
-| 🇪🇸 Español | **Chuleta sobre entidades de caracteres en HTML** — Ud. está aquí **◝(ᵔᵕᵔ)◜** |
+| 🇪🇸 Español | **Cheat sheet sobre entidades de caracteres en HTML** — Ud. está aquí **◝(ᵔᵕᵔ)◜** |
 
 ---
 
