@@ -253,7 +253,7 @@ This cheat sheet is available in the languages listed below:
 | Language | Link |
 | --- | --- |
 | 🇬🇧 English | **HTML Character Entities Cheat Sheet** — You are here **◝(ᵔᵕᵔ)◜** |
-| 🇪🇸 Spanish | [Chuleta sobre entidades de caracteres en HTML](./lang/es.md) |
+| 🇪🇸 Spanish | [Cheat sheet sobre entidades de caracteres en HTML](./lang/es.md) |
 
 ---
 
