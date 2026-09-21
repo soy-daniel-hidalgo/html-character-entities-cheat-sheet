@@ -31,9 +31,9 @@ To keep things organized and avoid duplicated effort, please follow this process
 
 ### Adding Features
 
-1. **Open an Issue:** Before starting, check existing issues or [open a new Issue](https://github.com/soy-daniel-hidalgo/html-character-entities-cheatsheet/issues) describing what you intend to work on.
+1. **Open an Issue:** Before starting, check existing issues or [open a new Issue](https://github.com/soy-daniel-hidalgo/html-character-entities-cheatsheet/issues), use the issue template named **➕ Special Character Request** and briefly describe what you intend to work on.
 
-2. **Fork the Repository:** Create your own copy of the repository by clicking the **Fork** button.
+2. **Fork the Repository:** Create your own copy of the repository by clicking the **Fork** button at the top right of the page.
 
 3. **Create a Feature Branch:**
 
@@ -46,7 +46,7 @@ git checkout -b feature/<issue-number>-your-awesome-feature
 
 ```bash
 git add .
-git commit -m 'feat: add some amazing feature closes #<issue-number>'
+git commit -m 'feat: add some amazing feature, closes #<issue-number>'
 ```
 
 5. **Push to the Branch:**
@@ -55,7 +55,7 @@ git commit -m 'feat: add some amazing feature closes #<issue-number>'
 git push origin feature/<issue-number>-your-awesome-feature
 ```
 
-6. **Open a Pull Request:** Submit a **PR** pointing to the `main` branch and link the **Issue** you created in Step 1. ***And that's it!*** It's easier than it looks, right?
+6. **Open a Pull Request:** Submit a **PR** targeting to the `main` branch and link the **Issue** you created in Step 1. ***And that's it!*** It's easier than it looks, right?
 
 ### Translating Cheat Sheets
 
