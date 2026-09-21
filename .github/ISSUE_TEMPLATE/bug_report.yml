@@ -1,0 +1,22 @@
+name: 🌐 Bug Report
+description: Report bugs, typos, or grammar mistakes in descriptions or entity codes.
+title: "[Bug Report]: "
+labels: ["bug"]
+assignees:
+  - soy-daniel-hidalgo
+type: bug
+body:
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Bug Description
+      description: What happened? Please provide a detail about the issue.
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirm agreement to the terms
+      options:
+        - label: I acknowledge that by submitting this issue, I agree to abide by the Code of Conduct.
+          required: true
