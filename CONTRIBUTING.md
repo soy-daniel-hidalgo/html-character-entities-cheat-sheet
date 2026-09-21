@@ -36,20 +36,21 @@ To keep things organized and avoid duplicated effort, please follow this process
 3. **Create a Feature Branch:**
 
 ```bash
-git checkout -b feature/your-awesome-feature
+# Replace <issue-number> with your assigned issue number and brief description
+git checkout -b feature/<issue-number>-your-awesome-feature
 ```
 
 4. **Add and Commit your Changes:**
 
 ```bash
 git add *
-git commit -m 'feat: add some amazing feature to cheat sheet'
+git commit -m 'feat: add some amazing feature closes #<issue-number>'
 ```
 
 5. **Push to the Branch:**
 
 ```bash
-git push origin feature/your-awesome-feature
+git push origin feature/<issue-number>-your-awesome-feature
 ```
 
 6. **Open a Pull Request:** Submit a **PR** pointing to the `main` branch and link the **Issue** you created in Step 1. ***And that's it!*** It's easier than it looks, right?
