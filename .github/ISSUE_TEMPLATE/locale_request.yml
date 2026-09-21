@@ -1,0 +1,33 @@
+name: 🌐 Locale Request
+description: Translate the cheat sheet into other language.
+title: "[Locale request]: "
+labels: ["enhancement"]
+assignees:
+  - soy-daniel-hidalgo
+type: feature
+body:
+  - type: input
+    id: locale-name
+    attributes:
+      label: Locale Name
+      description: What language will be added?
+    validations:
+      required: true
+  - type: textarea
+    id: locale-description
+    attributes:
+      label: Locale Description
+      description: Why should this language be added?
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirm agreement to the terms
+      options:
+        - label: I have searched for similar requests.
+          required: true
+        - label: I have checked whether the language is already present in the repository's "lang" directory.
+          required: true
+        - label: I acknowledge that by submitting this issue, I agree to abide by the Code of Conduct.
+          required: true
