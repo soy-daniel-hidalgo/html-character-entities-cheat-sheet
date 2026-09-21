@@ -29,6 +29,8 @@ You can help in many ways, including:
 
 To keep things organized and avoid duplicated effort, please follow this process:
 
+### Adding Features
+
 1. **Open an Issue:** Before starting, check existing issues or [open a new Issue](https://github.com/soy-daniel-hidalgo/html-character-entities-cheatsheet/issues) describing what you intend to work on.
 
 2. **Fork the Repository:** Create your own copy of the repository by clicking the **Fork** button.
@@ -43,7 +45,7 @@ git checkout -b feature/<issue-number>-your-awesome-feature
 4. **Add and Commit your Changes:**
 
 ```bash
-git add *
+git add .
 git commit -m 'feat: add some amazing feature closes #<issue-number>'
 ```
 
@@ -55,5 +57,46 @@ git push origin feature/<issue-number>-your-awesome-feature
 
 6. **Open a Pull Request:** Submit a **PR** pointing to the `main` branch and link the **Issue** you created in Step 1. ***And that's it!*** It's easier than it looks, right?
 
+### Translating Cheat Sheets
+
+1. **Pick a Language:** Check open comments, discussions, or issues to see if someone is already working on your target language.
+If no one has claimed it yet, claim it by [opening an issue](https://github.com/soy-daniel-hidalgo/html-character-entities-cheatsheet/issues) to avoid duplicate effort.
+
+2. **Open an Issue:** To simplify the process, use the issue template named **🌐 Locale Request** and briefly describe what you intend to work on.
+
+3. **Fork the Repository:** Create your own copy of the repository by clicking the **Fork** button at the top right of the page.
+
+4. **Create a Language Branch:**
+
+```bash
+# Replace <issue-number> with your issue number and brief description
+git checkout -b language/<issue-number>-your-language
+```
+
+5. **Translate the README:** Create a copy of README.md inside the lang/ directory, naming the file using your language's [ISO code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes). For example, to add a French translation:
+
+```bash
+# Create a markdown file named "fr" based on the French ISO code
+touch lang/fr.md
+
+# Copy the contents from README.md to fr.md
+cp --copy-contents README.md lang/fr.md
+```
+
+6. **Add and Commit your Changes:**
+
+```bash
+git add .
+git commit -m "feat(lang): add <your-language> translation, closes #<issue-number>"
+```
+
+7. **Push to the Branch:**
+
+```bash
+git push origin language/<issue-number>-your-language
+```
+
+7. **Open a Pull Request:** Submit a **PR** pointing to the `main` branch and link the **Issue** you created in Step 1. ***And that's it!*** It's easier than it looks, right?
+
 > [!IMPORTANT]
-> After your pull request is successfully merged, your branch will be deleted automatically.
+> Once your pull request is successfully merged, your branch will be automatically deleted.
