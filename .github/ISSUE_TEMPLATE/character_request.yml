@@ -1,0 +1,41 @@
+name: ➕ Special Character Request
+description: Add new characters, glyphs, or symbols to the list.
+title: "[Character request]: "
+labels: ["enhancement"]
+assignees:
+  - soy-daniel-hidalgo
+type: feature
+body:
+  - type: input
+    id: character-name
+    attributes:
+      label: Character Name
+      description: What's the character name?
+    validations:
+      required: true
+  - type: textarea
+    id: character-description
+    attributes:
+      label: Character Description
+      description: Why should this character be added?
+    validations:
+      required: true
+  - type: input
+    id: character-entities
+    attributes:
+      label: "Detail Character Entity Reference (Name or Number)"
+      description: How can the character be displayed?
+      placeholder: "e.g &dollar; displays a dollar sign"
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirm agreement to the terms
+      options:
+        - label: I have searched for similar requests.
+          required: true
+        - label: I have checked if the character, glyph, or symbol is not already on the list.
+          required: true
+        - label: I acknowledge that by submitting this issue, I agree to abide by the Code of Conduct.
+          required: true
