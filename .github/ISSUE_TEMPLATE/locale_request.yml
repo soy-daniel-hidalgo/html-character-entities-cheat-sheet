@@ -4,7 +4,6 @@ title: "[Locale request]: "
 labels: ["enhancement"]
 assignees:
   - soy-daniel-hidalgo
-type: feature
 body:
   - type: input
     id: locale-name

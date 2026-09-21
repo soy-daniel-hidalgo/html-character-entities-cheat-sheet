@@ -4,7 +4,6 @@ title: "[Bug Report]: "
 labels: ["bug"]
 assignees:
   - soy-daniel-hidalgo
-type: bug
 body:
   - type: textarea
     id: bug-description

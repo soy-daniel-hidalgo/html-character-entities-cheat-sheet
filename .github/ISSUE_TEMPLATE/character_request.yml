@@ -4,7 +4,6 @@ title: "[Character request]: "
 labels: ["enhancement"]
 assignees:
   - soy-daniel-hidalgo
-type: feature
 body:
   - type: input
     id: character-name
