@@ -10,7 +10,7 @@ Please review these guidelines before contributing. Use your best judgment when 
 
 - **Conventional Commits:** Follow the [Conventional Commits](https://www.conventionalcommits.org/) specification for clear and structured commit messages (e.g., `feat:`, `fix:`, `docs:`).
 
-- **Formatting:** Maintain consistent code formatting and Markdown style across the entire project.
+- **Coding style:** To ensure consistent coding styles and formatting throughout the project, configure your editor to use the `.editorconfig` file located in the project root. For more information, visit the [EditorConfig Website](https://editorconfig.org/).
 
 - **Emoji Usage:** To keep the code consistent, use standard Unicode emojis rather than GitHub's flavored markdown emojis unless strictly necessary.
 
