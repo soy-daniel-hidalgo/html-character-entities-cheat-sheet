@@ -1,16 +1,24 @@
 # 🤝 How to Contribute
 
-Thank you so much for taking the time to contribute to the **HTML Character Entities Cheat Sheet**! All contributions are welcome to help keep this resource accurate, simple, readable, and up to date.
+First off, thank you so much for taking the time to contribute! 🎉 All contributions are welcome to help keep this resource accurate, simple, readable, and up to date.
 
 ---
 
-## 📋 Guidelines
+## 📋 Guidelines & Recommendations
 
-- **Conventional Commits:** Follow the [Conventional Commits](https://www.conventionalcommits.org/) specification for commit messages (e.g., feat:, fix:, docs:, style:).
+Please review these guidelines before contributing. Use your best judgment when applying them, and feel free to propose updates to this document by opening a pull request.
 
-- **Formatting:** Keep the code formatting and Markdown style consistent throughout the project.
+- **Conventional Commits:** Follow the [Conventional Commits](https://www.conventionalcommits.org/) specification for clear and structured commit messages (e.g., `feat:`, `fix:`, `docs:`).
 
-- **Code of Conduct:** We make an effort to maintain a healthy and constructive community environment by adopting and enforcing our [Code of Conduct](./CODE_OF_CONDUCT.md).
+- **Formatting:** Maintain consistent code formatting and Markdown style across the entire project.
+
+- **Emoji Usage:** To keep the code consistent, use standard Unicode emojis rather than GitHub's flavored markdown emojis unless strictly necessary.
+
+- **Branch Naming:** Name your feature branch according to the conventions in the [Contribution Workflow](#-contribution-workflow).
+
+- **Code of Conduct:** Adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md) to help us maintain a welcoming, healthy, and constructive community environment.
+
+- **First-Time Contributors:** New to open source? Check out GitHub's guide [About Pull Requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) and the [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) guide before getting started.
 
 ---
 
@@ -100,3 +108,7 @@ git push origin language/<issue-number>-your-language
 
 > [!IMPORTANT]
 > Once your pull request is successfully merged, your branch will be automatically deleted.
+
+## 📄 License
+
+Any contribution will be published under the same licensing terms as the project itself.
