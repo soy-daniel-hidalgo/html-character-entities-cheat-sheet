@@ -1,6 +1,8 @@
 # 🤝 How to Contribute
 
-First off, thank you so much for taking the time to contribute! 🎉 All contributions are welcome to help keep this resource accurate, simple, readable, and up to date.
+First off, thank you so much for taking the time to contribute! 🎉
+
+All contributions are welcome to help keep this resource accurate, simple, readable, and up to date.
 
 ---
 
@@ -10,7 +12,7 @@ Please review these guidelines before contributing. Use your best judgment when 
 
 - **Conventional Commits:** Follow the [Conventional Commits](https://www.conventionalcommits.org/) specification for clear and structured commit messages (e.g., `feat:`, `fix:`, `docs:`).
 
-- **Coding style:** To ensure consistent coding styles and formatting throughout the project, configure your editor to use the `.editorconfig` file located in the project root. For more information, visit the [EditorConfig Website](https://editorconfig.org/).
+- **Coding Style:** To ensure consistent coding styles and formatting throughout the project, configure your editor to use the `.editorconfig` file located in the project root. For more information, visit the [EditorConfig Website](https://editorconfig.org/).
 
 - **Emoji Usage:** To keep the code consistent, use standard Unicode emojis rather than GitHub's flavored markdown emojis unless strictly necessary.
 
@@ -81,7 +83,7 @@ If no one has claimed it yet, claim it by [opening an issue](https://github.com/
 git checkout -b language/<issue-number>-your-language
 ```
 
-5. **Translate the README:** Create a copy of README.md inside the lang/ directory, naming the file using your language's [ISO code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes). For example, to add a French translation:
+5. **Translate the README:** Create a copy of README.md inside the lang/ directory, naming the file using your language's [ISO code](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes). For example, let's add a French translation:
 
 ```bash
 # Create a markdown file named "fr" based on the French ISO code
@@ -89,13 +91,15 @@ touch lang/fr.md
 
 # Copy the contents from README.md to fr.md
 cp --copy-contents README.md lang/fr.md
+
+# That's it. Now you can start translating the cheat sheet to French!
 ```
 
 6. **Add and Commit your Changes:**
 
 ```bash
 git add .
-git commit -m "feat(lang): add <your-language> translation, closes #<issue-number>"
+git commit -m "feat(lang): add my amazing language translation, closes #<issue-number>"
 ```
 
 7. **Push to the Branch:**
