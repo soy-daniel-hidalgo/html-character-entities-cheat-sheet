@@ -4,7 +4,7 @@
   </a>
   <br>
 
-  <h1 align="right">Cheat sheet sobre entidades de caracteres en HTML</h1>
+  <h1 align="right"><i>Cheat sheet</i> sobre entidades de caracteres en HTML</h1>
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 ## 📑 Acerca de
 
-Las **entidades de caracteres** te permiten mostrar caracteres especiales y símbolos dentro de documentos **HTML** que no están disponibles en la codificación ordinaria de caracteres (**charset**). Estos caracteres especiales se deben reemplazar por **entidades de caracteres** para evitar que el navegador los interprete como código HTML o los renderice de forma incorrecta.
+Las **entidades de caracteres** te permiten mostrar caracteres especiales y símbolos dentro de documentos **HTML** que no están disponibles en la codificación ordinaria de caracteres (***charset***). Estos caracteres especiales se deben reemplazar por **entidades de caracteres** para evitar que el navegador los interprete como código HTML o los renderice de forma incorrecta.
 
 Este sencillo *cheat sheet* ofrece una referencia rápida para ayudarte a navegar por este mar de caracteres, glifos y símbolos. Cubriremos su uso, tipos y buenas prácticas para crear contenido accesible y semánticamente correcto.
 
@@ -48,9 +48,9 @@ Las entidades de caracteres en HTML son códigos que se utilizan para mostrar ca
 
 Existen tres formas de representarlas:
 
-1. **Por nombre de la entidad:** Varias entidades están representadas por un nombre estandarizado, único y legible para los seres humanos, como `&copy;` para el símbolo de derechos de autor (&copy;) y `&gt;` para el signo mayor que (&gt;), que es una abreviatura del inglés: *greater than*.
-2. **Códigos decimales:** Representados por el valor decimal en Unicode del carácter, precedido por `&#`, por ejemplo `&#169;` representa el símbolo de derechos de autor (&#169;) y `&#120506;` representa el carácter matemático sigma (&#120506;).
-3. **Códigos hexadecimales:** Representados por el valor hexadecimal en Unicode del carácter, precedido por `&#x`, por ejemplo `&#x00A9;` representa el símbolo de derechos de autor (&#x00A9;) y `&#x03A9;` para la letra griega omega (&#x03A9;).
+1. **Por nombre de la entidad:** Varias entidades están representadas por un nombre estandarizado, único y legible para los seres humanos, como `&copy;` para el símbolo de derechos de autor (&copy;), o `&gt;` para el signo mayor que (&gt;), cuya denominación es una abreviación del inglés *greater than*.
+2. **Códigos decimales:** Representados por el valor decimal en Unicode del carácter, precedido por `&#`, por ejemplo `&#169;` representa el símbolo de derechos de autor (&#169;), o `&#120506;` que representa el carácter matemático sigma (&#120506;).
+3. **Códigos hexadecimales:** Representados por el valor hexadecimal en Unicode del carácter, precedido por `&#x`, por ejemplo `&#x00A9;` representa el símbolo de derechos de autor (&#x00A9;), o `&#x03A9;` para la letra griega omega (&#x03A9;).
 
 > [!TIP]
 > Tanto el formato decimal como el hexadecimal son conocidos como **Entidades numéricas**.
@@ -72,7 +72,7 @@ Existen tres formas de representarlas:
 > Especifica siempre la codificación de caracteres como UTF-8 (`<meta charset="UTF-8">`) al principio de cada documento HTML. UTF-8 admite de forma nativa casi todos los caracteres, lo que garantiza que los navegadores muestren el contenido correctamente y elimina la necesidad de usar entidades de caracteres en la mayoría de los casos.
 
 > [!WARNING]
-> Los navegadores web solo pueden representar un carácter si el dispositivo del usuario tiene instalada una fuente que lo admita. Si un carácter no está disponible en las fuentes instaladas, por lo general se mostrará como un cuadro u otro símbolo como *placeholder*.
+> Los navegadores web solo pueden representar un carácter si el dispositivo del usuario tiene instalada una fuente que lo admita. Si un carácter no está disponible en las fuentes instaladas, por lo general se mostrará como un cuadro u otro símbolo que funcione como *placeholder*.
 
 ---
 
@@ -253,7 +253,7 @@ Este proyecto está disponible en los siguientes idiomas:
 | Idioma | Enlace |
 | --- | --- |
 | 🇬🇧 Inglés | [HTML Character Entities Cheat Sheet](../README.md) |
-| 🇪🇸 Español | **Cheat sheet sobre entidades de caracteres en HTML** — Ud. está aquí **◝(ᵔᵕᵔ)◜** |
+| 🇪🇸 Español | ***Cheat sheet* sobre entidades de caracteres en HTML** — Ud. está aquí **◝(ᵔᵕᵔ)◜** |
 
 ---
 
@@ -267,7 +267,7 @@ Este proyecto está disponible en los siguientes idiomas:
 - 💡 Mejorar explicaciones y abordar otras propuestas.
 - 📝 Mejorar el formato y estilo del código.
 
-Echale un vistazo a las [**pautas de contribución**](../CONTRIBUTING.md) para empezar, y luego anímate en [**abrir un Issue**](https://github.com/soy-daniel-hidalgo/html-character-entities-cheatsheet/issues) o realizar un [**Pull Request**](https://github.com/soy-daniel-hidalgo/html-character-entities-cheatsheet/pulls)!
+Échale un vistazo a las [**pautas de contribución**](../CONTRIBUTING.md) para empezar, ¡y luego anímate a [**abrir un *issue***](https://github.com/soy-daniel-hidalgo/html-character-entities-cheatsheet/issues) o realizar un [***pull request***](https://github.com/soy-daniel-hidalgo/html-character-entities-cheatsheet/pulls)!
 
 **(ദ്ദി ˙ᗜ˙ )** Muchas gracias por tomarte el tiempo de leer y apoyar este proyecto.
 
@@ -277,7 +277,7 @@ Echale un vistazo a las [**pautas de contribución**](../CONTRIBUTING.md) para e
 
 Este repositorio está bajo la [Licencia MIT](../LICENSE), la cual se incluye en el directorio raíz de este repositorio. Siéntete libre de usar, adaptar o copiar cualquier parte de este proyecto.
 
-El [logotipo de HTML5](http://www.w3.org/html/logo/) está bajo la licencia Creative Commons Atribución 3.0 — todos son libres de usarlo y reinterpretarlo como crean conveniente.
+El [logotipo de HTML5](http://www.w3.org/html/logo/) está bajo la licencia Creative Commons Attribution 3.0 **(CC BY 3.0)** — todos son libres de usarlo y reinterpretarlo como crean conveniente.
 
 ---
 
