@@ -44,7 +44,7 @@ This comprehensive cheat sheet provides a quick reference to help you navigate t
 
 ## 📎 Types of Character Entities
 
-HTML character entities are codes used to display reserved characters or special symbols—such as accented letters, diacritical marks, emojis, and characters not found on a standard keyboard without interfering with HTML parsing.
+HTML character entities are codes used to display reserved characters or special symbols, such as accented letters, diacritical marks, emojis, and characters not found on a standard keyboard, without interfering with HTML parsing.
 
 There are three ways to represent them:
 
@@ -282,5 +282,5 @@ The [HTML5 logo](http://www.w3.org/html/logo/) is licensed under Creative Common
 ---
 
 <p align="center">
-    <b>⭐ Star this repository if you found it helpful! - I appreciate it ദ്ദി( • ᴗ - ) ✧ ⭐</b>
+    <b>⭐ Star this repository if you found it helpful! — I appreciate it ദ്ദി( • ᴗ - ) ✧ ⭐</b>
 </p>
