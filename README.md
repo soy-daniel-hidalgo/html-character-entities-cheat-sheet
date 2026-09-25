@@ -33,12 +33,12 @@ This comprehensive cheat sheet provides a quick reference to help you navigate t
 ## 📋 Table of Contents
 
 - [📑 About](#-about)
-- [📎 Types of character entities](#-types-of-character-entities)
-- [📓 Best practices and recommendations](#-best-practices-and-recommendations)
-- [📜 List of HTML character entities](#-list-of-html-character-entities)
+- [📎 Types of Character Entities](#-types-of-character-entities)
+- [📓 Best Practices and Recommendations](#-best-practices-and-recommendations)
+- [📜 List of HTML Character Entities](#-list-of-html-character-entities)
 - [🌎 Localization](#-localization)
 - [🤝 Contributing](#-contributing)
-- [📄 Licenses and copyright](#-licenses-and-copyright)
+- [📄 Licenses and Copyright](#-licenses-and-copyright)
 
 ---
 
